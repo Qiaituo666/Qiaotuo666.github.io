@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: Welcome to my 博客!
 subtitle: A awesome static site generator.
-author: Jeffrey
+author: Codewizard
 categories: jekyll
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
