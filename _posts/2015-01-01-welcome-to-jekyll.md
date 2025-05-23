@@ -16,14 +16,13 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: 个人介绍 小白 二次元
 top: 1
 sidebar: []
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+个人的心路历程
+当指尖首次触碰到那串神秘的字符，仿佛推开了一扇通往异次元的大门。代码如跃动的魔法符文，在黑白交织的屏幕上流转生花，将冰冷的指令化作灵动的逻辑，赋予万物新的可能。自此，我便深深着迷于这奇妙的“数字魔法”，渴望成为一名代码魔法师，用键盘作魔杖，以算法为咒语，在0与1的星河中编织程序生命，让每一行代码都绽放出独特的光彩，在虚拟世界里创造出震撼人心的奇迹。
 
 ## section 1
 
