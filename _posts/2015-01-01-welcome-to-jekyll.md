@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 欢迎来到我的博客!
-subtitle: 关于本博客的简介————励志成为一名优秀的程序员.
+subtitle: 关于本博客的简介————这是一个虽然叫代码巫师却是个几乎不懂代码的小白的博客.
 author: 代码巫师
 categories: jekyll
 banner:
@@ -30,4 +30,4 @@ sidebar: []
 
 ## section 2
 
-针对我现在的情况，我总结了一下6点……
+针对我现在的情况，我总结了一下6点：……
