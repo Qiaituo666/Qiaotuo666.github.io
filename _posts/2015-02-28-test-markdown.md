@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: 分享一些喜欢的动漫
+subtitle: 推荐一下我比较喜欢的动漫，欢迎补充。
 categories: markdown
-tags: [test]
+tags: [二次元]
 ---
 
-You can write regular [markdown](https://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+
 
 **Here is some bold text**
 
