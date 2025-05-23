@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to my 博客!
-subtitle: A awesome static site generator.
-author: Codewizard
+title: 欢迎来到我的博客!
+subtitle: 关于本博客的简介————励志成为一名优秀的程序员.
+author: 代码巫师
 categories: jekyll
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
